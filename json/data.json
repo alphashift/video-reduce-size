@@ -3,5 +3,5 @@
     "LatestVersionCode": 18,
     "ForceUpdate": true
   },
-  "AppStart": true
+  "AppStart": false
 }
