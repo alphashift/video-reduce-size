@@ -7,5 +7,17 @@
     "ShowOnAppStart": false,
     "InterstitialShowDelay": 45,
     "InterstitialLoadInterval": 15000
-  }
+  },
+  "AppPromotions": [
+    {
+      "appId": "simple.learn.piano.piano.keyboard",
+      "appName": "Learn2Play Piano : Simple Piano",
+      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
+    },
+    {
+      "appId": "marriage.bio.data.maker.bio.maker",
+      "appName": "Marriage Biodata Maker",
+      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
+    }
+  ]
 }
