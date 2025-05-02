@@ -12,12 +12,12 @@
     {
       "appId": "simple.learn.piano.piano.keyboard",
       "appName": "Learn2Play Piano : Simple Piano",
-      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
+      "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/piano.webp"
     },
     {
       "appId": "marriage.bio.data.maker.bio.maker",
       "appName": "Marriage Biodata Maker",
-      "appIconUrl": "https://raw.githubusercontent.com/LuxOne024/demo/main/appicon/3.webp"
+      "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/biodata.webp"
     }
   ]
 }
