@@ -4,7 +4,7 @@
     "ForceUpdate": true
   },
   "AdConfig": {
-    "ShowOnAppStart": false,
+    "ShowOnAppStart": true,
     "InterstitialShowDelay": 45,
     "InterstitialLoadInterval": 15000
   },
