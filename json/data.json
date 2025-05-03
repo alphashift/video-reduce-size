@@ -6,7 +6,7 @@
   "AdConfig": {
     "ShowOnAppStart": true,
     "InterstitialShowDelay": 45,
-    "InterstitialLoadInterval": 15000
+    "InterstitialLoadInterval": 20000
   },
   "AppPromotions": [
     {
