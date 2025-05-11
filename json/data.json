@@ -1,7 +1,7 @@
 {
   "AppUpdate": {
-    "LatestVersionCode": 25,
-    "ForceUpdate": true
+    "LatestVersionCode": 26,
+    "ForceUpdate": false
   },
   "AdConfig": {
     "ShowOnAppStart": false,
