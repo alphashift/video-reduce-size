@@ -11,12 +11,12 @@
   "AppPromotions": [
     {
       "appId": "simple.learn.piano.piano.keyboard",
-      "appName": "Learn2Play Piano : Simple Piano",
+      "appName": "Learn Piano : Keyboard Piano",
       "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/piano.webp"
     },
     {
       "appId": "marriage.bio.data.maker.bio.maker",
-      "appName": "Marriage Biodata Maker",
+      "appName": "Marriage Biodata Maker 2025",
       "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/biodata.webp"
     }
   ]
