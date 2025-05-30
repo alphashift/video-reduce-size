@@ -7,17 +7,5 @@
     "ShowOnAppStart": false,
     "InterstitialShowDelay": 45,
     "InterstitialLoadInterval": 20000
-  },
-  "AppPromotions": [
-    {
-      "appId": "simple.learn.piano.piano.keyboard",
-      "appName": "Learn Piano : Keyboard Piano",
-      "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/piano.webp"
-    },
-    {
-      "appId": "marriage.bio.data.maker.bio.maker",
-      "appName": "Marriage Biodata Maker 2025",
-      "appIconUrl": "https://raw.githubusercontent.com/alphashift/app-icon/main/logo/biodata.webp"
-    }
-  ]
+  }
 }
